@@ -6,5 +6,5 @@ Este blog consiste en una colección de páginas web, pluying o cualquier cosa q
 
 # Tutoriales
 
-### W3Schools
+### W3Schools[https://www.w3schools.com/]
 Esta posiblemente es de las mas utiles, ya que te enseña a programar en varios lenguajes desde cero con ejemplos sencillos y practicos. 
