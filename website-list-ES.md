@@ -9,7 +9,7 @@ Este blog consiste en una colección de páginas web, pluying o cualquier cosa q
 - [Tutoriales](#Tutoriales)
   - [W3Schools](#W3Schools)
   - [MDN web docs](#MDN)
-  - [Git Hub](#Git Hub)
+  - [GitHub](#GitHub)
 
 
 
@@ -30,4 +30,4 @@ En **MDN web docs** puedes encontrar documentacion de todo tipo con algunos ejem
 ### [Git Hub](https://github.com/)
 En Git Hub encontraras todo tipo de repositorios de todo tipo, desde API hasta código muy simple, además por lo general siemple viene el código explicado. 
 
-![Git Hub](https://github.githubassets.com/images/modules/site/home/repo-browser.png)
+![GitHub](https://github.githubassets.com/images/modules/site/home/repo-browser.png)
