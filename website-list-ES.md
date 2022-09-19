@@ -17,4 +17,4 @@ Este blog consiste en una colección de páginas web, pluying o cualquier cosa q
 Esta posiblemente es de las mas utiles, ya que te enseña a programar en varios lenguajes desde cero con ejemplos sencillos y practicos. 
 
 <img src="[drawing.jpg](https://i.pinimg.com/736x/51/f5/ae/51f5aeb7036317a82bd6ecb1994c7b5d.jpg)" alt="W3Schools" width="200"/>
-![W3Schools]([drawing.jpg](https://i.pinimg.com/736x/51/f5/ae/51f5aeb7036317a82bd6ecb1994c7b5d.jpg)
+![W3Schools]([W3Schools.jpg](https://i.pinimg.com/736x/51/f5/ae/51f5aeb7036317a82bd6ecb1994c7b5d.jpg)
