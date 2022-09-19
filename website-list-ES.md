@@ -20,4 +20,6 @@ Esta posiblemente es de las mas utiles, ya que te enseña a programar en varios 
 
 
 ### [MDN web docs](https://developer.mozilla.org/es/)
-Esta posiblemente es de las mas utiles, ya que te enseña a programar en varios lenguajes desde cero con ejemplos sencillos y practicos. 
+En esta web encontrar documentacion de todo tipo con algunos ejemplos simples, no es tan simple como W3Schools pero sirve para entender mejor algunas funciones. 
+
+![MDN web docs](https://community.mozilla.org/wp-content/uploads/2022/07/mdn-1.png)
