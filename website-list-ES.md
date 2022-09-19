@@ -27,7 +27,7 @@ En **MDN web docs** puedes encontrar documentacion de todo tipo con algunos ejem
 ![MDN web docs](https://community.mozilla.org/wp-content/uploads/2022/07/mdn-1.png)
 
 
-### [Git Hub](https://github.com/)
+### [GitHub](https://github.com/)
 En Git Hub encontraras todo tipo de repositorios de todo tipo, desde API hasta código muy simple, además por lo general siemple viene el código explicado. 
 
 ![GitHub](https://github.githubassets.com/images/modules/site/home/repo-browser.png)
