@@ -37,5 +37,6 @@ En Git Hub encontrarás todo tipo de repositorios de todo tipo, desde API hasta 
 # Colores
 
 ### [ColorHunt](https://colorhunt.co/)
+Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 
 ![colorHunt](https://i.pinimg.com/originals/7e/68/43/7e6843431e31d052dafcec51e03eb775.jpg)
