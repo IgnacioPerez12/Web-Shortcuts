@@ -10,7 +10,7 @@ Este blog consiste en una colección de páginas web, pluying o cualquier cosa q
   - [W3Schools](#W3Schools)
   - [MDN web docs](#MDN)
   - [GitHub](#GitHub)
-- [Paleta de colores](#colores)
+- [Colores](#Colores)
   - [ColorHunt](#colorHunt)
 
 
@@ -34,7 +34,7 @@ En Git Hub encontrarás todo tipo de repositorios de todo tipo, desde API hasta 
 
 ![GitHub](https://github.githubassets.com/images/modules/site/home/repo-browser.png)
 
-# Paleta de colores
+# Colores
 
 ### [ColorHunt](https://colorhunt.co/)
 
