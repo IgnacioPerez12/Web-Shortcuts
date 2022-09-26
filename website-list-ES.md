@@ -37,7 +37,7 @@ En Git Hub encontrarás todo tipo de repositorios de todo tipo, desde API hasta 
 
 # Colores
 
-### [ColoresHEX](https://colorhunt.co/)
+### [ColoresHEX](https://www.sortlist.es/blog/wp-content/uploads/sites/6/2021/08/screenshot-htmlcolorcodes.com-2021.08.18-10_57_55.png)
 Elige, descubre colores en formato HEX o RGB.
 
 ![ColoresHEX](https://www.sortlist.es/blog/wp-content/uploads/sites/6/2021/08/screenshot-htmlcolorcodes.com-2021.08.18-10_57_55.png)
