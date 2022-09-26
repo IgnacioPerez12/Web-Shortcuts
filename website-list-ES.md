@@ -12,6 +12,7 @@ Este blog consiste en una colección de páginas web, pluying o cualquier cosa q
   - [GitHub](#GitHub)
 - [Colores](#Colores)
   - [ColorHunt](#colorHunt)
+  - [ColoresHEX](#ColoresHEX)
 
 
 
@@ -36,7 +37,15 @@ En Git Hub encontrarás todo tipo de repositorios de todo tipo, desde API hasta 
 
 # Colores
 
+### [ColoresHEX](https://colorhunt.co/)
+Elige, descubre colores en formato HEX o RGB.
+
+![ColoresHEX](https://www.sortlist.es/blog/wp-content/uploads/sites/6/2021/08/screenshot-htmlcolorcodes.com-2021.08.18-10_57_55.png)
+
 ### [ColorHunt](https://colorhunt.co/)
 Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 
 ![colorHunt](https://i.pinimg.com/originals/7e/68/43/7e6843431e31d052dafcec51e03eb775.jpg)
+
+
+
