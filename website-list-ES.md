@@ -38,4 +38,4 @@ En Git Hub encontrarás todo tipo de repositorios de todo tipo, desde API hasta 
 
 ### [ColorHunt](https://colorhunt.co/)
 
-![W3Schools](https://i.pinimg.com/736x/51/f5/ae/51f5aeb7036317a82bd6ecb1994c7b5d.jpg)
+![colorHunt](https://i.pinimg.com/originals/7e/68/43/7e6843431e31d052dafcec51e03eb775.jpg)
