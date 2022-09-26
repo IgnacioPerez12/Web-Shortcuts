@@ -10,6 +10,8 @@ Este blog consiste en una colección de páginas web, pluying o cualquier cosa q
   - [W3Schools](#W3Schools)
   - [MDN web docs](#MDN)
   - [GitHub](#GitHub)
+- [Paleta de colores](#colores)
+  - [ColorHunt](#colorHunt)
 
 
 
@@ -31,3 +33,9 @@ En **MDN web docs** puedes encontrar documentación de todo tipo con algunos eje
 En Git Hub encontrarás todo tipo de repositorios de todo tipo, desde API hasta código muy simple, además por lo general siempre viene el código explicado. 
 
 ![GitHub](https://github.githubassets.com/images/modules/site/home/repo-browser.png)
+
+# Paleta de colores
+
+### [ColorHunt](https://colorhunt.co/)
+
+![W3Schools](https://i.pinimg.com/736x/51/f5/ae/51f5aeb7036317a82bd6ecb1994c7b5d.jpg)
