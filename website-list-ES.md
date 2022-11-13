@@ -48,7 +48,9 @@ Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 ![colorHunt](https://i.pinimg.com/originals/7e/68/43/7e6843431e31d052dafcec51e03eb775.jpg)
 
 
-#WEBS (falta por ordenar)
+----------------------------------------------------------------------------------------------------
+
+# WEBS (falta por ordenar)
 
 ### [[BlackBox]](https://www.useblackbox.io/)
 ### [[Tango]](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
