@@ -50,8 +50,7 @@ Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 
 #WEBS (falta por ordenar)
 
-### [HtmlColorCodes](https://htmlcolorcodes.com/es/)
-
+### [[BlackBox](https://htmlcolorcodes.com/es/)](https://www.useblackbox.io/)
 
 
 
