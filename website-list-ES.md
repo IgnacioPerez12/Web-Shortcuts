@@ -50,7 +50,21 @@ Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 
 #WEBS (falta por ordenar)
 
-### [[BlackBox](https://htmlcolorcodes.com/es/)](https://www.useblackbox.io/)
+### [[BlackBox]](https://www.useblackbox.io/)
+### [[Tango]](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
+### [[screencastify]](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)
+### [[3D Gif Maker]](https://www.3dgifmaker.com/)
+### [[Huemint]](https://huemint.com/)
+### [[Free Programming Books]](https://goalkicker.com/)
+### [[Spline]](https://spline.design/)
+### [[DrawKit]](https://www.drawkit.com/)
+### [[HappyHues]](https://www.happyhues.co/)
+### [[readme.so]](https://readme.so/es)
+### [[PlayCode]](https://playcode.io/)
+### [[CSS Gradient Animator]](https://www.gradient-animator.com/)
+### [[mydevice.io]](https://www.mydevice.io/)
+### [[uiverse.io]](https://uiverse.io/buttons)
+### [[libgdx]](https://libgdx.com/)
 
 
 
