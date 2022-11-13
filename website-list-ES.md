@@ -48,4 +48,13 @@ Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 ![colorHunt](https://i.pinimg.com/originals/7e/68/43/7e6843431e31d052dafcec51e03eb775.jpg)
 
 
+#WEBS (falta por ordenar)
+
+### [HtmlColorCodes](https://htmlcolorcodes.com/es/)
+
+
+
+
+
+
 
