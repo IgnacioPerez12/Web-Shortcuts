@@ -65,7 +65,7 @@ Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 ### [[PlayCode]](https://playcode.io/)
 ### [[CSS Gradient Animator]](https://www.gradient-animator.com/)
 ### [[mydevice.io]](https://www.mydevice.io/)
-### [[uiverse.io]](https://uiverse.io/buttons)
+### [[uiverse.io]](https://uiverse.io/)
 ### [[libgdx]](https://libgdx.com/)
 
 
