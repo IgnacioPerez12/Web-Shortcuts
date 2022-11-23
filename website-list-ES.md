@@ -67,6 +67,7 @@ Te muestra paleta de colores con misma tonalidad que combinan entre ellos.
 ### [[mydevice.io]](https://www.mydevice.io/)
 ### [[uiverse.io]](https://uiverse.io/)
 ### [[libgdx]](https://libgdx.com/)
+### [[beautiful.ai]](https://www.beautiful.ai/)
 
 
 
